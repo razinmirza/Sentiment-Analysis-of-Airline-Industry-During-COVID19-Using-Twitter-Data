@@ -1,2 +1,1 @@
-# Sentiment-Analysis-of-Airline-Industry-During-COVID19-Using-Twitter-Data
-Sentiment Analysis of Airline Industry During COVID19 Using Twitter Data
+Leveraging Twitter Data to Understand Public Sentiment and Opinion about the Airline Industry amid Coronavirus Pandemic
